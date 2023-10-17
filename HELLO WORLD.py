@@ -346,7 +346,6 @@ for i in range(3):
 for i in range(3):
     print(random.randint(10,20))
 members = ['John','Mary','Bob','Mosh']
-print(path.rmdir())
 leader = random.choice(members)
 print(leader)
 
